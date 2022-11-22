@@ -141,13 +141,13 @@ img {
     height: 100%;
 }
 
-/*@media (max-width: 768px) {
+@media (max-width: 768px) {
     .body {
         font-family: sans-serif;
         padding-top: 70px;
         background-color: #FFF7CE;
     }
-*/
+
     .header {
         height: 60px;
         
