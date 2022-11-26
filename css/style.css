@@ -95,10 +95,10 @@ body {
 }
 
 #cont-nav-img {
-    border: 5px solid white;
-    height: 250px;
-    overflow: hidden;
-    margin-top: 20px;
+           border: 5px solid white;
+           height: 250px;
+           overflow: hidden;
+           margin-top: 20px;
 }
 
 .img-nav {
