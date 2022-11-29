@@ -196,13 +196,7 @@ img {
     .nav-toggle:focus:not (:focus-visible); {
                         outline: none;
     }
-    /*
-    #cont-nav-img {
-        border: 5px solid white;
-        height: 250px;
-        overflow: hidden;
-        margin-top: 20px;
-    }*/
+    
     .tabla{ 
 
     }
