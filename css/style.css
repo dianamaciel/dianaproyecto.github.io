@@ -141,11 +141,11 @@ img {
     height: 100%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 768px);
     .body {
         font-family: sans-serif;
         padding-top: 70px;
-        background-color: #FFF7CE;
+        background-color: #FFF7CE
     }
 
     .header {
@@ -177,12 +177,12 @@ img {
     }
 
     .nav-menu-item {
-    line-height: 70px;
+                    line-height: 70px;
     }
 
     .nav-menu-link:hover {
-        background: none;
-        color: #FFF7CE;
+                         background: none;
+                        color: #FFF7CE;
     }
     
     .nav-toggle {
@@ -190,11 +190,11 @@ img {
     }
     
     .nav-menu_visible {
-        left: 0;
+                     left: 0;
     }
     
-    .nav-toggle:focus:not (:focus-visible) {
-        outline: none;
+    .nav-toggle:focus:not (:focus-visible); {
+                        outline: none;
     }
     /*
     #cont-nav-img {
