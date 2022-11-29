@@ -154,18 +154,18 @@ img {
     }
      
     .logo {
-        padding: 0 20p;
+        padding: 0 20px;
         line-height: 60px;
         width: 100px;
         height: 9px;
     }
     
     .nav-menu {
-        flex-direction: column;
-        align-items: center;
-        margin: 0;
-        background-color: #939393;
-        position: fixed;
+                flex-direction: column;
+               align-items: center;
+               margin: 0;
+               background-color: #939393;
+              position: fixed;
         left: 0;
         top: 60px;
         width: 100%;
@@ -186,7 +186,7 @@ img {
     }
     
     .nav-toggle {
-        display: block;
+               display: block;
     }
     
     .nav-menu_visible {
