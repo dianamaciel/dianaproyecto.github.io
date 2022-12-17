@@ -203,4 +203,17 @@ img {
     .tabla-tr-td{  width: 3%;
                  height: 4%;
     }
+    .c-body{
+        background-color: bisque;
+    text-align: center;
+    padding: 45px 50px;
+    justify-content: space-between;
+    height: auto;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+    
     
