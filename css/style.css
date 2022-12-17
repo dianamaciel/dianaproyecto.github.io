@@ -144,7 +144,7 @@ i {
     display: none;
 }
 
-button {
+.button {
     writing-mode: horizontal-tb !important;
     font-style: ;
     font-variant-ligatures: ;
